@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[[GÖRSELİN_URL_ADRESİ]](https://github.com/KeremOzcn/DSA_Projects/blob/main/dsa.png)" alt="C++ DSA Projects Cover"/>
+</p>
 # C++ Data Structures and Algorithms Projects
 
 This repository contains a collection of fundamental data structures and algorithms implemented in C++. These projects were developed to practice and demonstrate core computer science concepts.
