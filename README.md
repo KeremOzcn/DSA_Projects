@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/KeremOzcn/DSA_Projects/blob/main/dsa.png]" alt="C++ DSA Projects Cover"/>
+  <img src="dsa.png" alt="C++ DSA Projects Cover"/>
 </p>
 # C++ Data Structures and Algorithms Projects
 
