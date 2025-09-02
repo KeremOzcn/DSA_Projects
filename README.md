@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[GÖRSELİN_URL_ADRESİ]](https://github.com/KeremOzcn/DSA_Projects/blob/main/dsa.png)" alt="C++ DSA Projects Cover"/>
+  <img src="[https://github.com/KeremOzcn/DSA_Projects/blob/main/dsa.png]" alt="C++ DSA Projects Cover"/>
 </p>
 # C++ Data Structures and Algorithms Projects
 
